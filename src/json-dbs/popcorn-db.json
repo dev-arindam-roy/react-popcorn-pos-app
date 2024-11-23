@@ -1,0 +1,28 @@
+[
+    { "id": 1, "name": "Butter Popcorn", "price": 2.49, "image": "popcorn.png" },
+    { "id": 2, "name": "Cheddar Cheese Popcorn", "price": 2.99, "image": "popcorn.png" },
+    { "id": 3, "name": "Caramel Popcorn", "price": 3.29, "image": "popcorn.png" },
+    { "id": 4, "name": "Kettle Corn", "price": 2.79, "image": "popcorn.png" },
+    { "id": 5, "name": "White Cheddar Popcorn", "price": 3.19, "image": "popcorn.png" },
+    { "id": 6, "name": "Sour Cream & Onion Popcorn", "price": 2.89, "image": "popcorn.png" },
+    { "id": 7, "name": "Garlic Parmesan Popcorn", "price": 3.49, "image": "popcorn.png" },
+    { "id": 8, "name": "Spicy Jalapeno Popcorn", "price": 3.29, "image": "popcorn.png" },
+    { "id": 9, "name": "Ranch Popcorn", "price": 2.69, "image": "popcorn.png" },
+    { "id": 10, "name": "Buffalo Wing Popcorn", "price": 3.49, "image": "popcorn.png" },
+    { "id": 11, "name": "Chocolate Drizzled Popcorn", "price": 3.99, "image": "popcorn.png" },
+    { "id": 12, "name": "Cinnamon Sugar Popcorn", "price": 2.99, "image": "popcorn.png" },
+    { "id": 13, "name": "Taco Popcorn", "price": 3.19, "image": "popcorn.png" },
+    { "id": 14, "name": "Cheese & Caramel Mix", "price": 4.29, "image": "popcorn.png" },
+    { "id": 15, "name": "Maple Bacon Popcorn", "price": 3.49, "image": "popcorn.png" },
+    { "id": 16, "name": "Apple Cinnamon Popcorn", "price": 3.29, "image": "popcorn.png" },
+    { "id": 17, "name": "Sriracha Popcorn", "price": 3.39, "image": "popcorn.png" },
+    { "id": 18, "name": "Sweet & Salty Popcorn", "price": 2.99, "image": "popcorn.png" },
+    { "id": 19, "name": "Lemon Pepper Popcorn", "price": 3.19, "image": "popcorn.png" },
+    { "id": 20, "name": "Coconut Popcorn", "price": 3.29, "image": "popcorn.png" },
+    { "id": 21, "name": "Pina Colada Popcorn", "price": 3.49, "image": "popcorn.png" },
+    { "id": 22, "name": "Chocolate Peanut Butter Popcorn", "price": 3.79, "image": "popcorn.png" },
+    { "id": 23, "name": "Dill Pickle Popcorn", "price": 2.89, "image": "popcorn.png" },
+    { "id": 24, "name": "Mochachino Popcorn", "price": 3.59, "image": "popcorn.png" },
+    { "id": 25, "name": "Zesty BBQ Popcorn", "price": 3.19, "image": "popcorn.png" }
+]
+  

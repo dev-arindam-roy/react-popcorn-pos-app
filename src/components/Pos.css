@@ -1,0 +1,149 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.app-name-container {
+  text-align: left;
+}
+.app-name-container .app-name {
+  font-weight: bold;
+  font-size: 30px;
+}
+.app-name-container .app-version {
+  color: #cfcfcf;
+  font-size: 20px;
+}
+.auth-settings {
+  text-align: right;
+}
+.auth-settings .auth-info {
+  font-size: 18px;
+  font-weight: 600;
+}
+.auth-settings .restaurant-name {
+  font-size: 15px;
+  color: #a4a4a4;
+  font-weight: bold;
+  font-style: oblique;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+}
+.app-for {
+  margin-top: -8px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #cccccc;
+  margin-left: 1px;
+  font-style: italic;
+  letter-spacing: 2px;
+}
+.modal:has(.blur-backdrop) {
+  -webkit-backdrop-filter: blur(6px);
+  backdrop-filter: blur(6px);
+}
+.form-control-lb {
+  font-weight: 600;
+  font-size: 15px;
+}
+.item-box {
+  width: 150px;
+  text-align: center;
+  margin: auto;
+}
+.item-box:hover {
+  cursor: pointer;
+}
+.item-image img {
+  width: 80%;
+}
+.item-name {
+  font-size: 14px;
+  font-weight: 600;
+}
+.item-price {
+  font-size: 18px;
+  font-weight: bold;
+}
+.product-list-heading,
+.bill-heading {
+  font-size: 18px;
+  font-weight: bold;
+}
+.dev-footer {
+  font-size: 14px;
+  font-weight: 400;
+  color: #ccc;
+  font-style: italic;
+  text-align: right;
+}
+.add-bill-user {
+  font-size: 25px;
+}
+.add-bill-user:hover {
+  cursor: pointer;
+}
+.footer-bill-info-item {
+  font-size: 14px;
+  font-weight: 600;
+  color: #aaaaaa;
+}
+.footer-bill-info-date {
+  font-size: 14px;
+  color: #aaaaaa;
+  font-style: italic;
+}
+.remove-icon:hover {
+  cursor: pointer;
+}
+.bill-user-active {
+  color: #00b718;
+}
+.tbl-txtb-discount {
+  width: 105px;
+  border: 0;
+}
+.apply-discount-btn {
+  border: 0;
+  float: right;
+  border-radius: 4px;
+}
+.active-green {
+  color: #ffffff;
+  background-color: #00b718;
+}
+.tbl-txtb-qty {
+  width: 65px;
+  border: 0;
+}
+.createbill-header-amount {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: monospace;
+  color: #0d6efd;
+}
+.createbill-header-restaurant-name {
+  font-size: 16px;
+  font-weight: bold;
+}
+.createbill-header-restaurant-box,
+.createbill-header-customer-box {
+  font-size: 13px;
+}
+.createbill-header-restaurant-phno {
+  float: left;
+}
+.createbill-header-restaurant-email {
+  float: left;
+}
+.createbill-header-restaurant-box span {
+  font-weight: 600;
+}
+.createbill-header-restaurant-phno {
+  margin-left: 8px;
+}
+.bill-customer-name {
+  font-size: 14px;
+  font-weight: bold;
+}
