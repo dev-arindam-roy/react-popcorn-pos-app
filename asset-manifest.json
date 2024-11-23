@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-popcorn-pos-app/static/css/main.cdc1b880.css",
+    "main.js": "/react-popcorn-pos-app/static/js/main.b0478a76.js",
+    "static/js/453.49d8d6bd.chunk.js": "/react-popcorn-pos-app/static/js/453.49d8d6bd.chunk.js",
+    "static/media/1.png": "/react-popcorn-pos-app/static/media/1.860e0ddadd5e25318e8e.png",
+    "static/media/4.png": "/react-popcorn-pos-app/static/media/4.794c70a56efb4b19e949.png",
+    "static/media/3.png": "/react-popcorn-pos-app/static/media/3.516b39c205d953127b0d.png",
+    "static/media/popcorn.png": "/react-popcorn-pos-app/static/media/popcorn.527e5e3e0c2394706942.png",
+    "static/media/2.png": "/react-popcorn-pos-app/static/media/2.220a1cb98a26b6757dd4.png",
+    "static/media/burger-2.png": "/react-popcorn-pos-app/static/media/burger-2.88ffc482eb45e5e13b9f.png",
+    "index.html": "/react-popcorn-pos-app/index.html",
+    "main.cdc1b880.css.map": "/react-popcorn-pos-app/static/css/main.cdc1b880.css.map",
+    "main.b0478a76.js.map": "/react-popcorn-pos-app/static/js/main.b0478a76.js.map",
+    "453.49d8d6bd.chunk.js.map": "/react-popcorn-pos-app/static/js/453.49d8d6bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdc1b880.css",
+    "static/js/main.b0478a76.js"
+  ]
+}
